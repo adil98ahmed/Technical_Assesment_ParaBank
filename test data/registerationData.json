@@ -1,1 +1,15 @@
-{"registrationData":{"firstName":"Adel","lastName":"Ahmed","address":"Cairo","city":"Gizza","state":"Faissal","zipCode":"12345","phone":"01159130853","ssn":"6619349","username":"Adel981314371","password":"Adel123456","accounts":[]}}
+{
+    "registrationData": {
+        "firstName": "Adel",
+        "lastName": "Ahmed",
+        "address": "Cairo",
+        "city": "Gizza",
+        "state": "Faissal",
+        "zipCode": "12345",
+        "phone": "01159130853",
+        "ssn": "6619349",
+        "username": "Adel981314371",
+        "password": "Adel123456",
+        "accounts": []
+    }
+}
